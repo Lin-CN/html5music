@@ -10,7 +10,7 @@
     "html5",
     "music"
   ],
-  "author": "liuluwei",
+  "author": "L-Y",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^8.1.0",
