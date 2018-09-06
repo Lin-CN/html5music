@@ -1,8 +1,8 @@
 # html5music
-musicPlayer
+musicPlayer:
 
 
 
-npm install
+$ npm install
 
-gulp
+$ gulp
